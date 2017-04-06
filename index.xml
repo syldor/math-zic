@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music and Maths</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on Music and Maths</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Apr 2017 13:33:51 +0700</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gaussian curves</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/gaussian-curve/</link>
+      <pubDate>Thu, 06 Apr 2017 13:33:51 +0700</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/gaussian-curve/</guid>
+      <description>
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/YSNbbuq8AmY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h1 id=&#34;about-the-music:e7c6c7f255cdb40ad880b45b5682bdb4&#34;&gt;About the music&lt;/h1&gt;
+
+&lt;p&gt;Gaussian Curve is an ambient music trio composed by Young Marco, Gigi Masin and Jonny Nash. Gigi Masin is a long time ambient music producer and after the release of a compilation of his work, the two electronic music producers Young Marco and Jonny Nash started to work with him on the Gaussian Curve project and released Clouds, first album full of beauty.&lt;/p&gt;
+
+&lt;h1 id=&#34;about-the-maths:e7c6c7f255cdb40ad880b45b5682bdb4&#34;&gt;About the maths&lt;/h1&gt;
+
+&lt;p&gt;A Gaussian function is a function with the form:&lt;/p&gt;
+
+&lt;div class=&#34;equation&#34;&gt;
+    $$ f\left(x\right) = a e^{- { \frac{(x-b)^2 }{ 2 c^2} } }   $$
+&lt;/div&gt;
+
+&lt;p&gt;Thus for $a =1 $, $b = 0$ and $c = 1$ it gives the following well-known bell-curve.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/gaussian/gaussian.png&#34; alt=&#34;Gaussian Curve&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;use-in-probabilities:e7c6c7f255cdb40ad880b45b5682bdb4&#34;&gt;Use in probabilities&lt;/h2&gt;
+
+&lt;p&gt;The gaussian function is extremely important in probability theories. It&amp;rsquo;s a good way to estimate samples from nature, like the size of people of an age group, the salaries on a job market, etc &amp;hellip;
+It is less and less likely to be of a certain value when we move from the average $\mu$. Randomly taking an 20 year old from a univeristy classroom, I have more chance to find a 1.80m tall than a 1.10m.&lt;/p&gt;
+
+&lt;p&gt;The parameters $b$ and $c$ from the equations are average and variance. Then we have to find $a$ so the function is a probability distribution.
+A (continuous) probability distribution (on $\mathbb{R}$) $f$ has the following property:&lt;/p&gt;
+
+&lt;p&gt;$$ \int_{-\infty}^\infty f(x)\,dx= 1 $$&lt;/p&gt;
+
+&lt;p&gt;Thus we find $a$ to normalize the distribution.&lt;/p&gt;
+
+&lt;p&gt;$$ f(x \; | \; \mu, \sigma^2) = \frac{1}{\sqrt{2\pi\sigma^2} } \; e^{ -\frac{(x-\mu)^2}{2\sigma^2} } $$&lt;/p&gt;
+
+&lt;p&gt;The importance of the Gaussian Distribution comes from the Central Limit Theorem that says&lt;/p&gt;
+
+&lt;blockquote&gt;
+Let $(X_1, …, X_n)$ be a sequence of independant and identically distributed random variables drawn from distributions of expected values $\mu$ and finite variance $\sigma^2$,
+then 
+
+$$\sqrt{n}\left(\left(\frac{1}{n}\sum_{i=1}^n X_i\right) - \mu\right)\ \xrightarrow{d}\ N\left(0,\sigma^2\right)$$
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;Which means that the average of random noise controlled by $\sqrt{n}$ converge toward a Normal distribution. We see a lot of random noise in nature, so we also see a lot of gaussian distributions.&lt;/p&gt;
+
+&lt;h2 id=&#34;other-applications:e7c6c7f255cdb40ad880b45b5682bdb4&#34;&gt;Other applications&lt;/h2&gt;
+
+&lt;p&gt;The Gaussian function can be found in many other fields.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In neural network, they are used as activation functions&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s a solution of the heat diffusion equation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
