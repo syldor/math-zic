@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Music and Maths</title>
-    <link>https://syldor.github.io/math-zic/</link>
-    <description>Recent content on Music and Maths</description>
+    <title>NerdySound</title>
+    <link>https://www.nerdysound.com/</link>
+    <description>Recent content on NerdySound</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Apr 2017 13:33:51 +0700</lastBuildDate>
-    <atom:link href="https://syldor.github.io/math-zic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.nerdysound.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Gaussian curves</title>
-      <link>https://syldor.github.io/math-zic/post/gaussian-curve/</link>
+      <link>https://www.nerdysound.com/post/gaussian-curve/</link>
       <pubDate>Thu, 06 Apr 2017 13:33:51 +0700</pubDate>
       
-      <guid>https://syldor.github.io/math-zic/post/gaussian-curve/</guid>
+      <guid>https://www.nerdysound.com/post/gaussian-curve/</guid>
       <description>
 
 
@@ -37,7 +37,7 @@
 
 &lt;p&gt;Thus for $a =1 $, $b = 0$ and $c = 1$ it gives the following well-known bell-curve.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://syldor.github.io/math-zic/images/gaussian/gaussian.png&#34; alt=&#34;Gaussian Curve&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.nerdysound.com/images/gaussian/gaussian.png&#34; alt=&#34;Gaussian Curve&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;use-in-probabilities:e7c6c7f255cdb40ad880b45b5682bdb4&#34;&gt;Use in probabilities&lt;/h2&gt;
 
