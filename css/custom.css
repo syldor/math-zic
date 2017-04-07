@@ -1,3 +1,49 @@
 .equation {
 	font-size: 2em;
 }
+
+img {
+	display: block;
+	margin: auto;
+}
+
+
+.image {
+  height: 30rem;
+  background-color: #eee;
+  background-position: center;
+  background-size: cover;
+}
+
+/*@media (min-width: 767px) {
+  .articles .col-sm-4 article.li .image {
+    height: 10rem;
+  }
+
+  .articles .col-sm-4 article.li .title {
+    font-size: 1.2rem;
+  }
+
+  .articles .col-sm-4 article.li .detail {
+    padding: .5rem;
+  }
+}*/
+
+/*.sm article.li .image {
+  float: left;
+  width: 50px;
+  height: 50px;
+}
+*/
+/*article.single .image {
+  height: 24rem;
+  background-color: #eee;
+  background-position: center;
+  background-size: cover;
+}
+
+@media (max-width: 768px) {
+  article.single .image {
+    height: 12rem;
+  }
+}*/

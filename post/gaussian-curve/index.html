@@ -29,7 +29,7 @@
   <link rel="apple-touch-icon" href="https://www.nerdysound.comimages/apple-touch-icon.png" />
 </head>
 <body>
-    <header class="global-header"  style="background-image:url( /images/equation.png )">
+    <header class="global-header"  style="background-image:url(/images/equation.png)">
     <section class="header-text">
       <h1><a href="https://www.nerdysound.com">NerdySound</a></h1>
       
@@ -134,16 +134,19 @@ $$\sqrt{n}\left(\left(\frac{1}{n}\sum_{i=1}^n X_i\right) - \mu\right)\ \xrightar
   </section>
   <footer>
     
-    <section class="author-info row">
-      <div class="author-avatar col-md-2">
-        
-      </div>
-      <div class="author-meta col-md-6">
-        
-        
-      </div>
-      
-    </section>
+    <hr/>
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      var disqus_shortname = 'math-zic';
+      (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    
+
     <ul class="pager">
       
       <li class="previous disabled"><a href="#"><span aria-hidden="true">&larr;</span> Older</a></li>
@@ -158,7 +161,7 @@ $$\sqrt{n}\left(\left(\frac{1}{n}\sum_{i=1}^n X_i\right) - \mu\right)\ \xrightar
   </main>
   <footer class="container global-footer">
     <div class="copyright-note pull-left">
-      
+      dorey.sylvain gmail.com
     </div>
     <div class="sns-links hidden-print">
   
