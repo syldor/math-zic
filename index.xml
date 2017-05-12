@@ -6,11 +6,61 @@
     <description>Recent content on NerdySound</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Apr 2017 13:33:51 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2017 13:53:36 +0700</lastBuildDate>
     <atom:link href="https://www.nerdysound.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Gaussian curves</title>
+      <title>Muse - The 2nd Law: Isolated Systems</title>
+      <link>https://www.nerdysound.com/post/the-2nd-law-isolated-systems/</link>
+      <pubDate>Fri, 12 May 2017 13:53:36 +0700</pubDate>
+      
+      <guid>https://www.nerdysound.com/post/the-2nd-law-isolated-systems/</guid>
+      <description>
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/VXPoJAyeF8k&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h1 id=&#34;about-the-music:a4d3ed9f6a2d1ccd696b239d4a910858&#34;&gt;About the music&lt;/h1&gt;
+
+&lt;p&gt;Muse is an english rock band formed in 1994. They use guitars to create a very special sound, alternative rock full of harmony and lyrism.
+Their first album Showbiz was released in the UK in 1999. Their second album Origin of Symmetry was a critical and commercial success.&lt;/p&gt;
+
+&lt;h1 id=&#34;about-the-science:a4d3ed9f6a2d1ccd696b239d4a910858&#34;&gt;About the science&lt;/h1&gt;
+
+&lt;p&gt;Thermodynamics is the part of physics studying heat and how it is transferred. It is governed by four laws that explains how heat, temperature, energy and work evolves in a system considering each others. Thus, it does not consider the calorific properties of materials constituting the element, but only the states of the element.&lt;/p&gt;
+
+&lt;p&gt;More precisely, thermodynamics will consider systems, which are portion of space for which we want to describe heat transfers, and that have different state variables:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Temperature: Measurement of hot/cold&lt;/li&gt;
+&lt;li&gt;Internal Energy: Energy of the system without considering external sources or global movement&lt;/li&gt;
+&lt;li&gt;Pressure: Perpendicular force applied to the surface of the system&lt;/li&gt;
+&lt;li&gt;Entropy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The last variable state is called entropy. It can be seen as a measure of the randomness of a system. At a microscopic level, atoms can be at different places, with a different state of energy. We call the configuration a micro-state. A gas has many more possible micro-states than a liquid, itself having more possible micro-states than a solid. Thus the entropy of a gas is bigger than the entropy of a liquid, which is bigger than the entropy of a solid.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.nerdysound.com/images/2nd-law/entropy.jpg&#34; alt=&#34;Entropy&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The intuitive definition can be made more precised by introducing the following formula for entropy, noted $S$. If we consider that every microscopic configuration is equally likely to happen, and if we note $\Omega$ the number of those configurations, we have&lt;/p&gt;
+
+&lt;blockquote&gt;
+$$ S = k_b\ln(\Omega)$$
+&lt;/blockquote&gt;
+
+&lt;p&gt;where $k_b$ is Boltzmann constant, $1.38064852×10^{−23} J.K^{-1}$.&lt;/p&gt;
+
+&lt;p&gt;Now the second law of Thermodynamics states that for an isolated system, which means a system that does not exchange matter or energy with ouside, its total Entropy can only increase over time.&lt;/p&gt;
+
+&lt;p&gt;A possible interpretation is that once randomness has increase in a system, it cannot go back to more order without external work or energy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gaussian curves - Clouds</title>
       <link>https://www.nerdysound.com/post/gaussian-curve/</link>
       <pubDate>Thu, 06 Apr 2017 13:33:51 +0700</pubDate>
       
@@ -27,7 +77,7 @@
 
 &lt;p&gt;Gaussian Curve is an ambient music trio composed by Young Marco, Gigi Masin and Jonny Nash. Gigi Masin is a long time ambient music producer and after the release of a compilation of his work, the two electronic music producers Young Marco and Jonny Nash started to work with him on the Gaussian Curve project and released Clouds, first album full of beauty.&lt;/p&gt;
 
-&lt;h1 id=&#34;about-the-maths:e7c6c7f255cdb40ad880b45b5682bdb4&#34;&gt;About the maths&lt;/h1&gt;
+&lt;h1 id=&#34;about-the-science:e7c6c7f255cdb40ad880b45b5682bdb4&#34;&gt;About the science&lt;/h1&gt;
 
 &lt;p&gt;A Gaussian function is a function with the form:&lt;/p&gt;
 
