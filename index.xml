@@ -2,15 +2,197 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NerdySound</title>
-    <link>https://www.nerdysound.com/</link>
+    <link>https://www.nerdysound.com/index.xml</link>
     <description>Recent content on NerdySound</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Apr 2017 13:33:51 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2017 14:29:43 +0700</lastBuildDate>
     <atom:link href="https://www.nerdysound.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Gaussian curves</title>
+      <title>Molecule - 60° 43&#39; North</title>
+      <link>https://www.nerdysound.com/post/molecule/</link>
+      <pubDate>Sun, 10 Sep 2017 14:29:43 +0700</pubDate>
+      
+      <guid>https://www.nerdysound.com/post/molecule/</guid>
+      <description>
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/SZbUJwHRYkc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h1 id=&#34;about-the-music&#34;&gt;About the music&lt;/h1&gt;
+
+&lt;p&gt;Molecule is a french electronic music producer. In 2013, he decided to board the trawler Joseph Roty, whith a whole lot of music producing equipment, to record an album in the middle of the North Atlantic Ocean. He was part of a crew of 60 fishermen busy catching fishes when he was looking for sounds: motor, cables, wind are integreated in his music.
+After one month of travel, he reached the northest point of it&amp;rsquo;s expedition, at latitude 60° 43&amp;rsquo; North, 230km off the coast of Scotland.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.nerdysound.com/images/molecule/marker.png&#34;&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;about-the-science&#34;&gt;About the science&lt;/h1&gt;
+
+&lt;h2 id=&#34;latitude&#34;&gt;Latitude&lt;/h2&gt;
+
+&lt;p&gt;The latitude of a point is the angle between the equatorial plane and a straight line going from the center of the earth to the point. This angle is between 0 and 90°, and we specify if we are in the North or South hemisphere. Circles of same latitude are called parallels and go from East to West.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.nerdysound.com/images/molecule/latitude.png&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;longitude&#34;&gt;Longitude&lt;/h2&gt;
+
+&lt;p&gt;The longitude of a point refers to its Eas-West position. It&amp;rsquo;s the angle with the reference meridian Greenwitch. It varies between 0 and 180° and we specify East or West if we are on the left side of Greenwitch or on the right side. Meridians are half-circles with the same longitude going from North to South.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.nerdysound.com/images/molecule/longitude.png&#34;&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;degrees-and-sub-degrees&#34;&gt;Degrees and sub-degrees&lt;/h2&gt;
+
+&lt;p&gt;There are two ways to transcript degrees, or more precisely sub-degrees. 1° is &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;360&lt;/sub&gt; of a full roation. But instead of dividing 1° in 10 parts (decimal system), we can divide like hours, in 60 parts, and those units are called minute of arc, symbole &amp;lsquo;. 1 minute of arc can also be divided in 60 to have seconds of arc (&amp;ldquo;).&lt;/p&gt;
+
+&lt;p&gt;Thus the Eiffel Tower has the coordinates:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;48° 51’ 29’’ N, ‎2° 17’ 40’’ E&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;But we can also decide to divide by 10, as 1h30 can be 1.5h, and it gives the equivalent coordinates of the Eiffel Tower in decimal notation:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;48.8584° N, 2.2945° E&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>John Coltrane - Equinox</title>
+      <link>https://www.nerdysound.com/post/equinox/</link>
+      <pubDate>Fri, 02 Jun 2017 09:44:42 +0700</pubDate>
+      
+      <guid>https://www.nerdysound.com/post/equinox/</guid>
+      <description>
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/5m2HN2y0yV8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h1 id=&#34;about-the-music&#34;&gt;About the music&lt;/h1&gt;
+
+&lt;p&gt;John Coltrane is an american Jazzman. He&amp;rsquo;s considered as one of the best saxophonists in music history. He started with &lt;a href=&#34;https://en.wikipedia.org/wiki/Bebop&#34;&gt;bebop&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Hard_bop&#34;&gt;hard bop&lt;/a&gt; in the fourties, and later evolved toward &lt;a href=&#34;https://en.wikipedia.org/wiki/Modal_jazz&#34;&gt;modal&lt;/a&gt; and &lt;a href=&#34;https://en.wikipedia.org/wiki/Free_jazz&#34;&gt;free jazz&lt;/a&gt;. He recorded and played with the best of the period, like Miles Davis and Thelonious Monk.&lt;/p&gt;
+
+&lt;p&gt;His compositions are using complex interactions and patterns of notes, &lt;a href=&#34;https://roelhollander.eu/en/blog-saxophone/Coltrane-Geometry&#34;&gt;that can be linked to geometry&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;John Coltrane was born on September 23, the day of the automnal equinox in 1926.&lt;/p&gt;
+
+&lt;h1 id=&#34;about-the-science&#34;&gt;About the science&lt;/h1&gt;
+
+&lt;p&gt;An equinox is a time of the year where the earth&amp;rsquo;s equator plane crosses the plane of the center of the sun called ecliptic. Those two planes are different because of the inclination of the earth of 23.5°.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.nerdysound.com/images/equinox/equinox.png&#34; alt=&#34;Schema of ecliptic and equator&#39;s plane&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Equinox occured only twice a year, around March 20 and September 23. Half of the year, the northern hemisphere is directed toward the sun, and the other half it&amp;rsquo;s the southern hemisphere.&lt;/p&gt;
+
+&lt;p&gt;During an equinox, the sun is exactly at the zenith on the equator. Thus, days and nights are almost equal in time everywhere in the world. It would be exactly equal if other phenomenon didn&amp;rsquo;t get involved, like atmospheric refraction: the variation of air density in the atmosphere causes a deviation of light.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kraftwerk - Ohm sweet Ohm</title>
+      <link>https://www.nerdysound.com/post/kraftwerk-ohm-sweet-ohm/</link>
+      <pubDate>Wed, 17 May 2017 14:29:43 +0700</pubDate>
+      
+      <guid>https://www.nerdysound.com/post/kraftwerk-ohm-sweet-ohm/</guid>
+      <description>
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/QLwEG3cdeRw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h1 id=&#34;about-the-music&#34;&gt;About the music&lt;/h1&gt;
+
+&lt;p&gt;Kraftwerk is a german band of musicians known to be pioneers of electonic music. The band was formed in 1969 and they were among the first to use synthetisers, drum machines and other computer-like instruments.&lt;/p&gt;
+
+&lt;p&gt;Radio-Activity is their fifth studio album released in 1975. It reached the first spot in France and is full of gems still very enjoyable now, like Geiger Counter and the eponym title Radio-Activity.&lt;/p&gt;
+
+&lt;h1 id=&#34;about-the-science&#34;&gt;About the science&lt;/h1&gt;
+
+&lt;p&gt;Ohm ($\Omega$) is the unit of electrical resistance. It was named after XIX&amp;rsquo;s century german physicist Georg Ohm.&lt;/p&gt;
+
+&lt;p&gt;In the study of electrical networks, two quantities are very important:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Electric current&lt;/li&gt;
+&lt;li&gt;Voltage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.nerdysound.com/images/ohm-sweet-ohm/ohm-s-law.png&#34; alt=&#34;Electric Circuit&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Electric current (symbol $I$) is the flow of electric charges. An electric charge in an element can be a moving electon, or an ion, which is a whole molecule with extra (or deficit of electrons).&lt;/p&gt;
+
+&lt;p&gt;Voltage (symbol $U$) is a difference of electric potential energy between two points. Electric current can be measured at one point of a circuit when voltage needs to be measured between two points. It represents the work that has to be done to move the charge from one point to another, against the electric field.&lt;/p&gt;
+
+&lt;p&gt;Electric current is related to the number of charges moving and voltage is related to their force. However, faster moving charges will create a bigger flow and is related to the force as well. Thus the Ohm&amp;rsquo;s law explains the link between voltage and electric current in a circuit: they are proportional one of the other, and the constant $R$ of proportionality is a parameter of the circuit, it is called resistance.&lt;/p&gt;
+
+&lt;blockquote&gt;
+$$ U = RI$$
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Muse - The 2nd Law: Isolated Systems</title>
+      <link>https://www.nerdysound.com/post/the-2nd-law-isolated-systems/</link>
+      <pubDate>Fri, 12 May 2017 13:53:36 +0700</pubDate>
+      
+      <guid>https://www.nerdysound.com/post/the-2nd-law-isolated-systems/</guid>
+      <description>
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/VXPoJAyeF8k&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h1 id=&#34;about-the-music&#34;&gt;About the music&lt;/h1&gt;
+
+&lt;p&gt;Muse is an english rock band formed in 1994. They use guitars to create a very special sound, alternative rock full of harmony and lyrism.
+Their first album Showbiz was released in the UK in 1999. Their second album Origin of Symmetry was a critical and commercial success.&lt;/p&gt;
+
+&lt;h1 id=&#34;about-the-science&#34;&gt;About the science&lt;/h1&gt;
+
+&lt;p&gt;Thermodynamics is the part of physics studying heat and how it is transferred. It is governed by four laws that explains how heat, temperature, energy and work evolves in a system considering each others. Thus, it does not consider the calorific properties of materials constituting the element, but only the states of the element.&lt;/p&gt;
+
+&lt;p&gt;More precisely, thermodynamics will consider systems, which are portion of space for which we want to describe heat transfers, and that have different state variables:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Temperature: Measurement of hot/cold&lt;/li&gt;
+&lt;li&gt;Internal Energy: Energy of the system without considering external sources or global movement&lt;/li&gt;
+&lt;li&gt;Pressure: Perpendicular force applied to the surface of the system&lt;/li&gt;
+&lt;li&gt;Entropy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The last variable state is called entropy. It can be seen as a measure of the randomness of a system. At a microscopic level, atoms can be at different places, with a different state of energy. We call the configuration a micro-state. A gas has many more possible micro-states than a liquid, itself having more possible micro-states than a solid. Thus the entropy of a gas is bigger than the entropy of a liquid, which is bigger than the entropy of a solid.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.nerdysound.com/images/2nd-law/entropy.jpg&#34; alt=&#34;Entropy&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The intuitive definition can be made more precised by introducing the following formula for entropy, noted $S$. If we consider that every microscopic configuration is equally likely to happen, and if we note $\Omega$ the number of those configurations, we have&lt;/p&gt;
+
+&lt;blockquote&gt;
+$$ S = k_b\ln(\Omega)$$
+&lt;/blockquote&gt;
+
+&lt;p&gt;where $k_b$ is Boltzmann constant, $1.38064852×10^{−23} J.K^{-1}$.&lt;/p&gt;
+
+&lt;p&gt;Now the second law of Thermodynamics states that for an isolated system, which means a system that does not exchange matter or energy with ouside, its total Entropy can only increase over time.&lt;/p&gt;
+
+&lt;p&gt;A possible interpretation is that once randomness has increase in a system, it cannot go back to more order without external work or energy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gaussian curves - Clouds</title>
       <link>https://www.nerdysound.com/post/gaussian-curve/</link>
       <pubDate>Thu, 06 Apr 2017 13:33:51 +0700</pubDate>
       
@@ -23,11 +205,11 @@
  &lt;/div&gt;
 
 
-&lt;h1 id=&#34;about-the-music:e7c6c7f255cdb40ad880b45b5682bdb4&#34;&gt;About the music&lt;/h1&gt;
+&lt;h1 id=&#34;about-the-music&#34;&gt;About the music&lt;/h1&gt;
 
 &lt;p&gt;Gaussian Curve is an ambient music trio composed by Young Marco, Gigi Masin and Jonny Nash. Gigi Masin is a long time ambient music producer and after the release of a compilation of his work, the two electronic music producers Young Marco and Jonny Nash started to work with him on the Gaussian Curve project and released Clouds, first album full of beauty.&lt;/p&gt;
 
-&lt;h1 id=&#34;about-the-maths:e7c6c7f255cdb40ad880b45b5682bdb4&#34;&gt;About the maths&lt;/h1&gt;
+&lt;h1 id=&#34;about-the-science&#34;&gt;About the science&lt;/h1&gt;
 
 &lt;p&gt;A Gaussian function is a function with the form:&lt;/p&gt;
 
@@ -39,7 +221,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://www.nerdysound.com/images/gaussian/gaussian.png&#34; alt=&#34;Gaussian Curve&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;use-in-probabilities:e7c6c7f255cdb40ad880b45b5682bdb4&#34;&gt;Use in probabilities&lt;/h2&gt;
+&lt;h2 id=&#34;use-in-probabilities&#34;&gt;Use in probabilities&lt;/h2&gt;
 
 &lt;p&gt;The gaussian function is extremely important in probability theories. It&amp;rsquo;s a good way to estimate samples from nature, like the size of people of an age group, the salaries on a job market, etc &amp;hellip;
 It is less and less likely to be of a certain value when we move from the average $\mu$. Randomly taking an 20 year old from a univeristy classroom, I have more chance to find a 1.80m tall than a 1.10m.&lt;/p&gt;
@@ -65,7 +247,7 @@ $$\sqrt{n}\left(\left(\frac{1}{n}\sum_{i=1}^n X_i\right) - \mu\right)\ \xrightar
 
 &lt;p&gt;Which means that the average of random noise controlled by $\sqrt{n}$ converge toward a Normal distribution. We see a lot of random noise in nature, so we also see a lot of gaussian distributions.&lt;/p&gt;
 
-&lt;h2 id=&#34;other-applications:e7c6c7f255cdb40ad880b45b5682bdb4&#34;&gt;Other applications&lt;/h2&gt;
+&lt;h2 id=&#34;other-applications&#34;&gt;Other applications&lt;/h2&gt;
 
 &lt;p&gt;The Gaussian function can be found in many other fields.&lt;/p&gt;
 

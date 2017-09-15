@@ -2,14 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.nerdysound.com/</loc>
-    <lastmod>2017-04-06T13:33:51+07:00</lastmod>
-    <priority>0</priority>
+    <loc>https://www.nerdysound.com/post/molecule/</loc>
+    <lastmod>2017-09-10T14:29:43+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nerdysound.com/post/equinox/</loc>
+    <lastmod>2017-06-02T09:44:42+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nerdysound.com/post/kraftwerk-ohm-sweet-ohm/</loc>
+    <lastmod>2017-05-17T14:29:43+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nerdysound.com/post/the-2nd-law-isolated-systems/</loc>
+    <lastmod>2017-05-12T13:53:36+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.nerdysound.com/post/gaussian-curve/</loc>
     <lastmod>2017-04-06T13:33:51+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.nerdysound.com/</loc>
+    <lastmod>2017-09-10T14:29:43+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.nerdysound.com/post/</loc>
+    <lastmod>2017-09-10T14:29:43+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
